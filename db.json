@@ -6,6 +6,7 @@
         "theme": "",
         "flags": [{ "label": "heidelberg", "class": "" }],
         "headline":"Schoolübergreifende Exkursion zur 58. Biennale nach Venedig „May you live in interesting times“",
+        "extern": true,
         "campus":"Heidelberg"
      },
      {
